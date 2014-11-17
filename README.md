@@ -4,7 +4,7 @@
 This app allowed me to explore DataMapper and also the Sinatra Framework. 
 
 **Screen Shot 1**
-![Alt text](/../screenshot1.png?raw=true)
+![Alt text](/screenshot1.png?raw=true)
 
 
 **Screen Shot 2**
