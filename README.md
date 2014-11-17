@@ -8,8 +8,8 @@ This app allowed me to explore DataMapper and also the Sinatra Framework.
 
 
 **Screen Shot 2**
-![alt tag](https://raw.github.com/hellosamkim/Contact-List/path/to/screenshot2.png)
+![Alt text](/screenshot2.png?raw=true)
 
 **Screen Shot 3**
-![alt tag](https://raw.github.com/hellosamkim/Contact-List/path/to/screenshot3.png)
+![Alt text](/screenshot3.png?raw=true)
 
