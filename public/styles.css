@@ -1,0 +1,187 @@
+body {
+  background-color: #302B2F;
+  color: #a19fa8;
+}
+
+main {
+  text-align: center;
+}
+
+main h1 {
+  text-align: left;
+  margin-left: 30px;
+}
+
+.nav, .navbar-default {
+  background-color: #a19fa8;
+  color: #302B2F;
+  border-color: #a19fa8;
+}
+
+.form-control {
+  width: 64%;
+  text-align: left;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-right: 0px;
+  display: inline-block;
+}
+
+#back {
+  text-decoration: none;
+  color: #333;
+}
+
+.list-group {
+  font-size: 2rem;
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+#heading {
+  font-size: 2.5rem;
+}
+
+#nav-add-contacts {
+  margin-right: 15px;
+  color: #302B2F;
+}
+
+#heading-link {
+  text-decoration: none;
+  color: #302B2F;
+}
+
+#heading-link:visited {
+  color: #302B2F;
+}
+
+#heading-link:hover, #nav-add-contacts:hover {
+  color: #777;
+}
+
+#footer-link {
+  text-decoration: none;
+}
+
+#footer-link:visited {
+  color: #C9C2B5;
+}
+
+#footer-link:hover {
+  color: #E9E6E1;
+}
+
+button {
+  width: 70px;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 8px;
+}
+
+.field {
+  text-align: right;
+}
+
+.form-container {
+  width: 300px;
+  margin: 20px auto 0 auto;
+}
+
+.center-form {
+  margin-left: 50px
+}
+
+.button-section {
+  text-align: right;
+  margin-top: 5px;
+}
+
+.contact-create, .contact-show {
+  margin-top: 30px;
+}
+
+.list, .social-link {
+  color: #a19fa8;
+  -webkit-transition: all 300ms ease;
+  width: 300px;
+}
+
+#footer-link {
+  -webkit-transition: all 300ms ease;
+}
+
+.list {
+  color: #C9C2B5;
+}
+
+.list:visited, .social-link:visited {
+  color: ;
+}
+
+.list:hover, .social-link:hover {
+  text-decoration: none;
+  color: #E9E6E1;
+}
+
+.social-link, .social-link:visited {
+  color: #C9C2B5;
+}
+
+.social-link:hover {
+  color: #E9E6E1;
+}
+
+.table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+  border-top: none;
+}
+
+.table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+  padding: 0;
+  font-size: 1.9rem;
+  text-align: left;
+}
+
+.td-right {
+  text-align: right;
+}
+
+.edit-1, .edit-2 {
+  display: inline-block;
+  margin: 5px;
+  font-size: 1.6rem
+}
+
+.edit-link {
+  color: #8EA38F;
+  -webkit-transition: all 300ms ease;
+}
+
+.edit-link:hover, .delete-link:hover {
+  color: #eff2ef;
+  text-decoration: none;
+}
+
+.delete-link {
+  border: none;
+  background: none;
+  display: inline;
+  color: #8EA38F;
+  -webkit-transition: all 300ms ease;
+  padding: 0px;
+  font-size: 1.6rem;
+}
+
+.delete-form {
+  display: inline-block;
+}
